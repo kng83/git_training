@@ -17,3 +17,5 @@ gitk - to pokaze aplikacje to jest commit viewer
 git gui -tez aplikacja graficzny interfejs
 git reset --hard przywraca nam stan projektu z ostatniego commitu
 git checkout -f - tym poleceniem takze mozemy przywrocic stan plikow
+
+jak damy git reset --hard i git checkout -f to powrocimy z projektem do commitu
