@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8c0fc19-2c1f-49a4-ba9a-be5b71817c28" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Docs/add.rm" afterPath="$PROJECT_DIR$/Docs/add.rm" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="branch.rm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="branch.rm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Docs/branch.rm">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -56,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add.rm" pinned="false" current-in-tab="false">
+      <file leaf-file-name="add.rm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Docs/add.rm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+            <state relative-caret-position="44">
+              <caret line="2" column="96" lean-forward="false" selection-start-line="2" selection-start-column="96" selection-end-line="2" selection-end-column="96" />
               <folding />
             </state>
           </provider>
@@ -76,9 +76,9 @@
       <list>
         <option value="$PROJECT_DIR$/a.txt" />
         <option value="$PROJECT_DIR$/b.txt" />
-        <option value="$PROJECT_DIR$/Docs/add.rm" />
         <option value="$PROJECT_DIR$/Docs/document.rm" />
         <option value="$PROJECT_DIR$/Docs/branch.rm" />
+        <option value="$PROJECT_DIR$/Docs/add.rm" />
       </list>
     </option>
   </component>
@@ -182,7 +182,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5147000" />
+    <option name="totallyTimeSpent" value="5482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -437,14 +437,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/add.rm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Docs/document.rm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -457,6 +449,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/add.rm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="96" lean-forward="false" selection-start-line="2" selection-start-column="96" selection-end-line="2" selection-end-column="96" />
           <folding />
         </state>
       </provider>

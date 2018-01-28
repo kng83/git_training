@@ -1,2 +1,4 @@
 git add . =>dodaje pliki to samo co git add -A lub git add --all
 nastepnie git commit - m "nazwa rewizji"
+git add . mowi nam ze beda pliki wszystkie w rewizji natomiast commit dodaje te pliki do rewizji
+git add dane.txt dodaje plik
