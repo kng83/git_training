@@ -2,6 +2,7 @@
 //rewizja to liczba commitow
 //opis komend uzyskasz git add --help (verbose -rozwlekly)
 git config -l => sprawdzenie konfiguracji (uzytkownik) //gdzie -l to lista
+git config --global user.name "kng83" => dodaje uzytkownika globalnego
 git init - tworzenie nowego repozytorium
 git clone [adres] => tworzy lokalna kopie repozytoria;
 
