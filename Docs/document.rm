@@ -16,3 +16,4 @@ rewizje mozna jeszcze pokazc ostatnie np.ostatnia  git log -1
 gitk - to pokaze aplikacje to jest commit viewer
 git gui -tez aplikacja graficzny interfejs
 git reset --hard przywraca nam stan projektu z ostatniego commitu
+git checkout -f - tym poleceniem takze mozemy przywrocic stan plikow
