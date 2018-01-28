@@ -2,3 +2,12 @@ git add . =>dodaje pliki to samo co git add -A lub git add --all
 nastepnie git commit - m "nazwa rewizji"
 git add . mowi nam ze beda pliki wszystkie w rewizji natomiast commit dodaje te pliki do rewizji
 git add dane.txt dodaje plik
+pliki indeksowane- to staging area (przechowalnia tymczasowe miejsce)
+pliki zaindeksowane - to staged area( pliki juz zapisane w obszarze roboczym w indeksie i repo ale moga byc rozne)
+pliki niezaindeksowane - to unstaged( pliki ktore sa w obszarze roboczym i repo a niema indeksu);)
+plik aktualny - jest w repo i w obszarze roboczym ale jest taki sam wiec niema indeksacji
+
+
+git add [nazwa pliki] => powoduje zaindeksowanie pliku I
+
+git add --all . => obejmuje wszystkie pliki
