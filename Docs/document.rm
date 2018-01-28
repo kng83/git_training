@@ -7,5 +7,12 @@ git clone [adres] => tworzy lokalna kopie repozytoria;
 
 git cone https://github.com/kng/mongo_raw . => to w folderze bedzie clone ja bez kropki to zrobi podfolder
 git shortlog -s -n - pokazuje liczbe uczestnikow -s => nazwa uczestnika
-git log --pretty=oneline => pokazuje loga w jednej linii
+git log --pretty=oneline => pokazuje loga w jednej linii pretty moze byc jeszcze short ,raw itd.
 
+logi mozna jescze filtrowac przez podanie --since='yyyy-mm-dd' --until --author=pawel
+indentyfikator rewizji czyli ten dlugi kod to SHA-1
+
+rewizje mozna jeszcze pokazc ostatnie np.ostatnia  git log -1
+gitk - to pokaze aplikacje to jest commit viewer
+git gui -tez aplikacja graficzny interfejs
+git reset --hard przywraca nam stan projektu z ostatniego commitu
