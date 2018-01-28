@@ -11,3 +11,4 @@ plik aktualny - jest w repo i w obszarze roboczym ale jest taki sam wiec niema i
 git add [nazwa pliki] => powoduje zaindeksowanie pliku I
 
 git add --all . => obejmuje wszystkie pliki
+sdklfasdf
