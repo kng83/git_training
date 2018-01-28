@@ -2,7 +2,8 @@
 //rewizja to liczba commitow
 //opis komend uzyskasz git add --help (verbose -rozwlekly)
 git config -l => sprawdzenie konfiguracji (uzytkownik) //gdzie -l to lista
-git config --global user.name "kng83" => dodaje uzytkownika globalnego
+git config --global user.name "kng83" => dodaje uzytkownika globalnego (Author)
+
 git init - tworzenie nowego repozytorium
 git clone [adres] => tworzy lokalna kopie repozytoria;
 
@@ -20,3 +21,5 @@ git reset --hard przywraca nam stan projektu z ostatniego commitu
 git checkout -f - tym poleceniem takze mozemy przywrocic stan plikow
 
 jak damy git reset --hard i git checkout -f to powrocimy z projektem do commitu ale nowe pliki musimy usunac wczesniejs
+
+przywracanie plikow : git checkout [SMA-1]
