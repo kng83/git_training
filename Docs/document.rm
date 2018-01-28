@@ -1,0 +1,11 @@
+//Pokazanie helpa => git help git =>wyswietli plik html katalogu z gitem c:\Program Files ..
+//rewizja to liczba commitow
+//opis komend uzyskasz git add --help (verbose -rozwlekly)
+git config -l => sprawdzenie konfiguracji (uzytkownik) //gdzie -l to lista
+git init - tworzenie nowego repozytorium
+git clone [adres] => tworzy lokalna kopie repozytoria;
+
+git cone https://github.com/kng/mongo_raw . => to w folderze bedzie clone ja bez kropki to zrobi podfolder
+git shortlog -s -n - pokazuje liczbe uczestnikow -s => nazwa uczestnika
+git log --pretty=oneline => pokazuje loga w jednej linii
+
