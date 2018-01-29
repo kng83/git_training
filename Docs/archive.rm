@@ -1,3 +1,8 @@
 git archive do archiwizajcji
 git archive --format=zip output=Nazwa-pliku SHA-
 git archive --format=zip --output=./projekt-0.1.2.zip V0.0.2 (odnosnie taga a mozna tez s SHA-1) tworzy zip w katalogu
+
+mozna jeszcze tak
+git archive --format=zip V0.0.2 >nowy.zip
+
+
