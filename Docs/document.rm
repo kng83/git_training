@@ -23,3 +23,5 @@ git checkout -f - tym poleceniem takze mozemy przywrocic stan plikow
 jak damy git reset --hard i git checkout -f to powrocimy z projektem do commitu ale nowe pliki musimy usunac wczesniejs
 
 przywracanie plikow : git checkout [SMA-1]
+
+pliki z rozszerzniem .dist stoujemy do wlasnych potrzeb np hasla properties.ini.dist

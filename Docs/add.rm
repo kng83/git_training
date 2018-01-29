@@ -14,4 +14,3 @@ git add --all . => obejmuje wszystkie pliki
 git commit -a -m "nazwa" => bierze wszystkie pliki i wrzuca do commita; polecenie te nie obejmuje plikow niesledzonych
 czyli nowo dodanych wtedy dalej trzeba dac add
 
-
