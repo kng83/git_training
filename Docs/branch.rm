@@ -30,3 +30,5 @@ git prune => niebezpieczne bo gdy head is detached to zgubimy wtedy te stare rze
 >>>>>>> 8510
 git merge zadzialal jak dalo sie git merge this (gdzie this to byla jakas boczna galaz)
 polecenia checkout boczna galaz . git merge master i koniec
+merge - laczyc ,scalac
+merge mozemy skasowac jak damy git log oraz git reset
