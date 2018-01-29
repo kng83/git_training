@@ -28,7 +28,8 @@ pliki z rozszerzniem .dist stoujemy do wlasnych potrzeb np hasla properties.ini.
 
 //******************log*******************************************
 git log
-git log --pretty=oneline -4 pokazuje 4 ostatnie rewizje w jednej linii
+git log --pretty=oneline -4 =>pokazuje 4 ostatnie rewizje w jednej linii
+git log --prettu=oneline -5 --abbrev-commit => pokazuje z komentarzem
 
 //****************status*********************
 git status -s = krotki status
