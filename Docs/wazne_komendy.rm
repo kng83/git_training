@@ -6,6 +6,6 @@ git archive --format=zip HEAD  > git-1.4.0-docs.zip
 
 git log --pretty=oneline --abbrev-commit --abbrev=4 -4 => ladne logi 4
 reflog =>pokazuje referencje
-
+git branch => pokazuje galezie
 
 
