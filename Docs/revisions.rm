@@ -1,0 +1,7 @@
+//pelny dostep do rewizji help
+
+minimalna dlugosc SHA-1 to 4 znaki
+git log --abbrev=4 --pretty=oneline --abbrev-commit
+-abbrev=4 wyswietli tylko 4 pierwsze znaki ale trzeba dac --abbrev-commit to chyba znaczy skrocony commit (abbreviation)
+
+nazwa symboliczna HEAD

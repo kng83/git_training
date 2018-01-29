@@ -4,5 +4,9 @@ git archive --format=zip --output=./projekt-0.1.2.zip V0.0.2 (odnosnie taga a mo
 
 mozna jeszcze tak
 git archive --format=zip V0.0.2 >nowy.zip
+git archive --format=zip f2f10020a13d3 >najnowszy.zip
+
+git show => pokazuje ostatnia rewizje
+
 
 
