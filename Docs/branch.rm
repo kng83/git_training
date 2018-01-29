@@ -29,3 +29,4 @@ git prune => niebezpieczne bo gdy head is detached to zgubimy wtedy te stare rze
 **************laczenie galezi najpierw na 1 torze **************************
 >>>>>>> 8510
 git merge zadzialal jak dalo sie git merge this (gdzie this to byla jakas boczna galaz)
+polecenia checkout boczna galaz . git merge master i koniec
