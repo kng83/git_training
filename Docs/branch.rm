@@ -3,3 +3,6 @@ git checkout master => powrot do mastera
 git status -b => skrocone info statusu dotyczace galezi
 git branch nazwa-galezi SHA-1
 
+jesli wybierzemy jakas rewizje na dole to bedziemy mieli head detached (HEAD oderwana)
+
+git branch --no-merged =>wyswietla liste galezi ktore nie sa w galezi bierzacej
