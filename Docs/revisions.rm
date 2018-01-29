@@ -52,6 +52,8 @@ git revert => dodawanie rewizji odwracajacej dzialanie poprzedniej rewizji
 
 ************************Laczenie rewizji rebase *************************
 git rebase -i [nazwa rewizji] to spowduje laczenie wszystkich rewizji w dol po nazwie rewizji
+//bezpieczna forma jest uzycie git revert
+git revert --no-edit X
 
 
 
