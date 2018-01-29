@@ -7,3 +7,6 @@
 
 git remote add origin adres => dodaje do konfiguracji adres zdalnego repozytorium
 git branch --set-upstream master origin/master =>tworzy powiazanie miedzy lokalna galezia mastera a zdalnym masterm
+git branch --set-upstream-to origin master
+efekt Branch 'master' set up to track local branch 'origin'.
+
