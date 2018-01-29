@@ -16,5 +16,5 @@ git reset --hard HEAD~5 =>usuwa 5 ostatnich rewizji
 ****************Porownanie 2 galezni*******************
 git diff --name-status this..master //porownuje galezie this i master
 git branch doc master~2 => galaz wskazujaca na przodka 2 master
-
+~
 
