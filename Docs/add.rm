@@ -20,3 +20,6 @@ git mv stara-nazwa nowa-nazwa => zmiana nazwy pliku
 git status -s -pokazuje stan rewizji w skroconej wersji
 
 zawsze na koncu mozna sprawdzic status ze wszystko zostalo dodane
+
+ M .idea/workspace.xml -plik z widoczna zmina
+?? bobo.txt -plik nie sledzony
