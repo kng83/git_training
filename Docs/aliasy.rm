@@ -1,3 +1,6 @@
 //aliasy dajemy w .gitconfig tak aby byly skrocone komendy
 [alias]
 l = log --pretty=oneline --abbrev-commit --abbrev=4 -25
+
+git config --global alias.sp "log --pretty=oneline --abbrev-commit --abbrev=4 -25" =>niby jeszcze tak mozna i da sie
+w windowsie jestem skazany na to wyzej bo niemozna tworzyc pliku

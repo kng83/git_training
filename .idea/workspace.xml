@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8c0fc19-2c1f-49a4-ba9a-be5b71817c28" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitconfig" afterPath="$PROJECT_DIR$/.gitconfig" />
+      <change beforePath="$PROJECT_DIR$/Docs/revisions.rm" afterPath="$PROJECT_DIR$/Docs/revisions.rm" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,18 +29,38 @@
       <file leaf-file-name="aliasy.rm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Docs/aliasy.rm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="55" />
+            <state relative-caret-position="110">
+              <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitconfig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="revisions.rm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Docs/revisions.rm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitconfig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitconfig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+              <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/git_bare/cw-06-04/config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,9 +135,9 @@
         <option value="$PROJECT_DIR$/Docs/znaczniki.rm" />
         <option value="$PROJECT_DIR$/Docs/document.rm" />
         <option value="$PROJECT_DIR$/Docs/archive.rm" />
-        <option value="$PROJECT_DIR$/Docs/revisions.rm" />
-        <option value="$PROJECT_DIR$/Docs/aliasy.rm" />
         <option value="$PROJECT_DIR$/.gitconfig" />
+        <option value="$PROJECT_DIR$/Docs/aliasy.rm" />
+        <option value="$PROJECT_DIR$/Docs/revisions.rm" />
       </list>
     </option>
   </component>
@@ -175,6 +195,11 @@
               <item name="git_trennig" type="b2602c69:ProjectViewProjectNode" />
               <item name="git_trennig" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="git_trennig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git_trennig" type="462c0819:PsiDirectoryNode" />
+              <item name="Docs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -222,7 +247,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18473000" />
+    <option name="totallyTimeSpent" value="20253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -279,14 +304,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Docs/add.rm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -603,14 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/revisions.rm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="41" column="65" lean-forward="false" selection-start-line="41" selection-start-column="65" selection-end-line="41" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Docs/archive.rm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -635,10 +644,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/aliasy.rm">
+    <entry file="file://$PROJECT_DIR$/git_bare/cw-06-04/config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="55" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -646,7 +655,23 @@
     <entry file="file://$PROJECT_DIR$/.gitconfig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/aliasy.rm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/revisions.rm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
           <folding />
         </state>
       </provider>

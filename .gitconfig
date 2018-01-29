@@ -1,2 +1,2 @@
-[superlog]
+[alias]
 l = log --pretty=oneline --abbrev-commit --abbrev=4 -25

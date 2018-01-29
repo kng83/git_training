@@ -41,6 +41,15 @@ w windowsie musimy dac az ^^^^
 przyklad rozgaleznia git rev-parse --short=4 v2.0.10~4^^^^2~3
 do wyzej idziemy 4 w dol rozglaziamy na 2 galaz i idziemy 3 w dol
 
+*****************Usuwanie Rewizji********************************
+git reset --hard [nazwa]
+git commit --amend => modyfikacja ostatnije rewizji
+git revert => dodawanie rewizji odwracajacej dzialanie poprzedniej rewizji
+//modyfikacje i kasowanie mozemy zrobic wtedy gdy nikt nie dostal jeszcze tej dzialajacej rewizji inczej musimy robic
+//revert
+//amend to po angielsku modyfikowac
+
+
 
 
 
