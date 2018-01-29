@@ -22,3 +22,4 @@ git reflog show doc => pokazuje galaz doc
 git prune => niebezpieczne bo gdy head is detached to zgubimy wtedy te stare rzeczy
 ~ /
 
+**************laczenie galezi najpierw na 1 torze **************************
