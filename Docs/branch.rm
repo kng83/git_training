@@ -32,3 +32,6 @@ git merge zadzialal jak dalo sie git merge this (gdzie this to byla jakas boczna
 polecenia checkout boczna galaz . git merge master i koniec
 merge - laczyc ,scalac
 merge mozemy skasowac jak damy git log oraz git reset
+oprocz merge mozna uzyc takze rebase do laczenia galezi ale to zmienia historie projektu
+
+//git branch --merged lista galezi polaczonych (ja mam master i this bo go laczylem)

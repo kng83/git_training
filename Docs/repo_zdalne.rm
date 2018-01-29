@@ -1,0 +1,8 @@
+//clonowanie
+//z repo zdalnego jest brany origin
+//kopiowane sa rewizje do lokalnego z zdalnego do galezi master
+//w .git/refs/remotes jest tworzony HEAD z nazwa galezi zdalnego repo
+//pozniej lokalne master wiaze sie ze zdalnym masterm
+//lokalne bedzie sledzila track remote
+
+git remote add origin adres => dodaje do konfiguracji adres zdalnego repozytorium
