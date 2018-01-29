@@ -18,6 +18,7 @@ git diff --name-status this..master //porownuje galezie this i master
 git branch doc master~2 => galaz wskazujaca na przodka 2 master i to fajnie wyszlo dosyc
 git checkout -b robo => robi nowa galaz robo
 
-
+git reflog show doc => pokazuje galaz doc
+git prune => niebezpieczne bo gdy head is detached to zgubimy wtedy te stare rzeczy
 ~
 
