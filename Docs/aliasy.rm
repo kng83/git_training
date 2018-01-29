@@ -1,0 +1,3 @@
+//aliasy dajemy w .gitconfig tak aby byly skrocone komendy
+[alias]
+l = log --pretty=oneline --abbrev-commit --abbrev=4 -25

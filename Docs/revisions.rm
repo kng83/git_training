@@ -5,3 +5,42 @@ git log --abbrev=4 --pretty=oneline --abbrev-commit
 -abbrev=4 wyswietli tylko 4 pierwsze znaki ale trzeba dac --abbrev-commit to chyba znaczy skrocony commit (abbreviation)
 
 nazwa symboliczna HEAD
+git checkout -f HEAD pobranie ostatniej rewizji
+indentyfikator rewizji jest w .git/HEAD
+
+//Odwolanie sie do n-tej rewizji X~1 (gdzie x to numer rewizji)
+//Lub HEAD~2
+//X~~ to odwolanie do dziadka X~ i X~1 sa rownowazne( to sa odwlania do przodkow dziadek itd.)
+//X^2 - oznacza kolejny rodzic
+
+Head
+X^1  X^2
+1rodzic 2rodzic str 59 sa grafy przedstawion
+
+//git ma diennik rewizji i to jest fajne!!!!!!!!!!!!!!!
+git reflog
+//git reflog master => pokazuje dziennik rewizji dla mastera
+//mozna dodac tez liczbe -3
+git reflog master@{6} =>pokazuje od mastera nr 6 commita
+
+//git rev-list --all pokazuje wszystkie rewize do ktorych mozemy dotrzec
+//git rev-parse --short=4  HEAD pokazuje 4 cyfry kodu SHA-1
+
+
+**********Uwaga na znaki specjalne w windowsi**************************
+znaki specjalen w windowsie by wyswietlic musimy poprzedzic ^
+wiec git show HEAD^^1 trzeba dac 2 .
+git show -s HEAD~~~ => pokazuje 3 rodzica z rzedu w jednej galezi
+^^^^2 -ten znak przelacza galezie na 2 (w windowsie musza byc 2)
+
+*********Polecenie graph *********************(wyswietla w grafie)
+git log --graph
+git log --pretty=oneline --abbrev-commit --abbrev=4 --graph
+
+w windowsie musimy dac az ^^^^
+przyklad rozgaleznia git rev-parse --short=4 v2.0.10~4^^^^2~3
+do wyzej idziemy 4 w dol rozglaziamy na 2 galaz i idziemy 3 w dol
+
+
+
+
