@@ -1,0 +1,11 @@
+git archive --format=zip --output="../Taki_bezpieczny"
+git archive --format=zip >Taki_bezpieczny.zip
+git archive -o latest.zip HEAD => to najfajniej dziala
+git archive --format=zip --prefix=git-docs/ HEAD:Documentation/ > git-1.4.0-docs.zip
+git archive --format=zip HEAD  > git-1.4.0-docs.zip
+
+git log --pretty=oneline --abbrev-commit --abbrev=4 -4 => ladne logi 4
+reflog =>pokazuje referencje
+
+
+
