@@ -1,2 +1,5 @@
 git branch => sprawdza galaz
 git checkout master => powrot do mastera
+git status -b => skrocone info statusu dotyczace galezi
+git branch nazwa-galezi SHA-1
+
