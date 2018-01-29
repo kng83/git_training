@@ -1,0 +1,34 @@
+git rm --cached [nazwa pliku] to usuwamy plik z commita ale zostawiamy w obszarze roboczym
+git rm --cached -f => to wymosi tam usuniecie pliku
+git mv stara-nazwa nowa-nazwa => zmiana nazwy pliku
+git status -s -pokazuje stan rewizji w skroconej wersji
+
+zawsze na koncu mozna sprawdzic status ze wszystko zostalo dodane
+
+ M .idea/workspace.xml -plik z widoczna zmina
+?? bobo.txt -plik nie sledzony
+
+//Rodzaje podpowiedzi:
+A-plik dodany(added)
+D-plik usniety(deleted)
+R-plik o zmienionej nazwie(renamed)
+M-zmodyfikowany(modified)
+
+M  .idea/workspace.xml
+M  Docs/add.rm
+A  Docs/rodzaje_plikow.rm
+R  b.txt -> bis.txt
+
+//droga pliku
+                  add                     commit
+obszar roboczy(??) => obszar tymczasowy (A) => repozytorium
+
+//nazwy dwuliterow gdy cos dodamy i usuniemy
+
+MM .idea/workspace.xml
+M  Docs/add.rm
+AM Docs/rodzaje_plikow.rm
+R  b.txt -> bis.txt
+
+git init -- bare => towrzy wylacznie baze rewizji (sluzy do synchronizaji repozytoriow)
+//te bare to naprzyklad github bo tam daje sie pull i push i tam sa zapisywane tylko rewizje

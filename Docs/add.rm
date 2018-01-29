@@ -14,12 +14,4 @@ git add --all . => obejmuje wszystkie pliki
 git commit -a -m "nazwa" => bierze wszystkie pliki i wrzuca do commita; polecenie te nie obejmuje plikow niesledzonych
 czyli nowo dodanych wtedy dalej trzeba dac add
 
-git rm --cached [nazwa pliku] to usuwamy plik z commita ale zostawiamy w obszarze roboczym
-git rm --cached -f => to wymosi tam usuniecie pliku
-git mv stara-nazwa nowa-nazwa => zmiana nazwy pliku
-git status -s -pokazuje stan rewizji w skroconej wersji
 
-zawsze na koncu mozna sprawdzic status ze wszystko zostalo dodane
-
- M .idea/workspace.xml -plik z widoczna zmina
-?? bobo.txt -plik nie sledzony
