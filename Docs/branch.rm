@@ -20,5 +20,5 @@ git checkout -b robo => robi nowa galaz robo
 
 git reflog show doc => pokazuje galaz doc
 git prune => niebezpieczne bo gdy head is detached to zgubimy wtedy te stare rzeczy
-~
+~ /
 
