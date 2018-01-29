@@ -48,6 +48,10 @@ git revert => dodawanie rewizji odwracajacej dzialanie poprzedniej rewizji
 //modyfikacje i kasowanie mozemy zrobic wtedy gdy nikt nie dostal jeszcze tej dzialajacej rewizji inczej musimy robic
 //revert
 //amend to po angielsku modyfikowac
+//do poprawienia rewizji git commit --amend -m "poprawiona"
+
+************************Laczenie rewizji rebase *************************
+git rebase -i [nazwa rewizji] to spowduje laczenie wszystkich rewizji w dol po nazwie rewizji
 
 
 
