@@ -5,3 +5,17 @@ commit 03ce67174f1051218f68a60a15676946c7ad7762 (HEAD -> master, tag: V0) jest j
 
 //tworzenie lekkiego taga
 git tag Nazwa  nr_rewizji(SHA-1)
+
+//**************TAG************************
+git tag -d NAZWA => usuwa znacznik taga
+np git tag -d V0 => usuniece taga
+git describe --tags => pokazuje ostatnie rewizjanowany tag
+git show V.0.1 => szczegolowe dane dotyczace rewizji oparte o tagi
+git show V.0.1 -s => wersja uproszczona tego co wyzej
+git tag => wyswietla wszystkie tagi mikkie i twarde
+
+//dzieki znacznikom mozemy przywrocic pliki z rewizji
+git checkout -f V0.0.1
+
+
+
