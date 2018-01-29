@@ -1,0 +1,7 @@
+//tak zwane znaczniki tagi ulatwiajace rozpoznanie wersji
+git tag -a NAZWA -m komentarz
+po komendzie git tag -a v.2.3.3 -m "wydanie ver v.2.3.3" zostanie wykonany i bedzie wskazywal na ostatnia rewizje
+commit 03ce67174f1051218f68a60a15676946c7ad7762 (HEAD -> master, tag: V0) jest juz tag nasz
+
+//tworzenie lekkiego taga
+git tag Nazwa  nr_rewizji(SHA-1)
