@@ -1,4 +1,30 @@
 git branch => sprawdza galaz
 git checkout master => powrot do mastera
+<<<<<<< HEAD
 Ale lubie rozne fajne rzeczy nawet lezaki
 ale te sa fajniejsze
+=======
+git status -sb => skrocone info statusu dotyczace galezi
+git branch nazwa-galezi SHA-1
+
+jesli wybierzemy jakas rewizje na dole to bedziemy mieli head detached (HEAD oderwana)
+i bedziemy mogli powrocic np reflog(albo tylko nim)
+
+git branch --no-merged =>wyswietla liste galezi ktore nie sa w galezi bierzacej
+git branch -d nazwa-galezi => usuwa dana galaz (-D) to sie nie pyta
+
+zmiana nazwy galezi
+git branch -m stara-nazwa nowa-nazwa //jesli damy -M to zmienimy mimo ze nazwa istnieje
+git reset --hard HEAD~5 =>usuwa 5 ostatnich rewizji
+
+****************Porownanie 2 galezni*******************
+git diff --name-status this..master //porownuje galezie this i master
+git branch doc master~2 => galaz wskazujaca na przodka 2 master i to fajnie wyszlo dosyc
+git checkout -b robo => robi nowa galaz robo
+
+git reflog show doc => pokazuje galaz doc
+git prune => niebezpieczne bo gdy head is detached to zgubimy wtedy te stare rzeczy
+~ /
+
+**************laczenie galezi najpierw na 1 torze **************************
+>>>>>>> 8510

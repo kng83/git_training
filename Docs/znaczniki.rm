@@ -16,6 +16,7 @@ git tag => wyswietla wszystkie tagi mikkie i twarde
 
 //dzieki znacznikom mozemy przywrocic pliki z rewizji
 git checkout -f V0.0.1
+git checkout -f nazwa_pliku (zwraca nam plik z tej rewizji);
 
 
 
