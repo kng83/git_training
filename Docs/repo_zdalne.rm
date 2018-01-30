@@ -20,9 +20,13 @@ git branch --set-upstream origin/master => ustalenie galezi ktora mozna sledzic
 git branch -r => wyswietla galezie zdalne
 
 git remote -v => pokazuje remote repo
-git branch --track dedykowana //wybranie galezni dedykowana w remocie do sledzenia
-Branch 'dedykowana' set up to track local branch 'master'.
-git push http://github.com/kng83/git_training dedykowana => to cos zrobilo (dedykowana to galaz)
-sadfasdfasdfas
 
+git remote add orgin nazwa_url =>jesli zrobilsmy galaz zdalna to mozemy zrobic fetch i polaczyc sie z nia
+git fetch origin =>pobieramy teraz orgina i zmieniamy sledzenie na nowa galaz
+git checkout --track origin/dedykowana => ustawiamy nowa galaz na dedykowana
+fetch dziala inaczej od pull (pull porownuje dane a fetch poprostu je pobiera);
 
+//pobieranie pliku z innego brancha
+*jestes w galezi do ktorej chcesz dac plik
+git checkout nazwa_galezi nazwa_pliku
+git checkout nowy_stan Docs/repo_zdalne.rm (jestes w galezi master)
