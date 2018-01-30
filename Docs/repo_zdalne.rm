@@ -20,3 +20,9 @@ git branch --set-upstream origin/master => ustalenie galezi ktora mozna sledzic
 git branch -r => wyswietla galezie zdalne
 
 git remote -v => pokazuje remote repo
+git branch --track dedykowana //wybranie galezni dedykowana w remocie do sledzenia
+Branch 'dedykowana' set up to track local branch 'master'.
+git push http://github.com/kng83/git_training dedykowana => to cos zrobilo (dedykowana to galaz)
+sadfasdfasdfas
+
+
