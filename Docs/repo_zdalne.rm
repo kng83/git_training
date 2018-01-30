@@ -1,4 +1,4 @@
-//clonowanie
+g//clonowanie
 //z repo zdalnego jest brany origin
 //kopiowane sa rewizje do lokalnego z zdalnego do galezi master
 //w .git/refs/remotes jest tworzony HEAD z nazwa galezi zdalnego repo
@@ -9,4 +9,14 @@ git remote add origin adres => dodaje do konfiguracji adres zdalnego repozytoriu
 git branch --set-upstream master origin/master =>tworzy powiazanie miedzy lokalna galezia mastera a zdalnym masterm
 git branch --set-upstream-to origin master
 efekt Branch 'master' set up to track local branch 'origin'.
+git remote add origin C:\my\repos\example
 
+git remote add nazwa adres =>nazwa to sposob odwolania sie do repozytoriumzdalnego
+remote add zapisuje pliki w repozytorium zdalnym
+jesli chcemy dac nazwe zdalnemu repo to damy git remote zdalne C:\cos\tam\jest
+
+git config --list => to mozezemy zobaczyc konfiguracje (tu bedzie tez lista remote)
+git branch --set-upstream origin/master => ustalenie galezi ktora mozna sledzic
+git branch -r => wyswietla galezie zdalne
+
+git remote -v => pokazuje remote repo
