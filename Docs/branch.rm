@@ -1,8 +1,6 @@
 git branch => sprawdza galaz
 git checkout master => powrot do mastera
 <<<<<<< HEAD
-Ale lubie rozne fajne rzeczy nawet lezaki
-ale te sa fajniejsze
 =======
 git status -sb => skrocone info statusu dotyczace galezi
 git branch nazwa-galezi SHA-1
