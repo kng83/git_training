@@ -1,0 +1,13 @@
+//po merge bedziemy mieli taki wyglad naszego pliku
+
+<<<<<<<<<<<<<<<<HEAD
+ABC
+...tresc jedndej galezi
+
+=====================
+...tresc z drugiej galezi b
+
+>>>>>>>>>>>>>>>> b
+
+//Dla liniowego repo tak zeby nie bylo widac galezi dajemy rebase
+npm . git rebase nazwa_galezi

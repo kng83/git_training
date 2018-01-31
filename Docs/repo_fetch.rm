@@ -13,3 +13,4 @@ git pull => robi fetch i od razu merge
 git checkout --track -b daves_branch origin/daves_branch
 
 repozytorium bez obszaru roboczego oraz indeksu nazywmay repozytorium surowym (np repozytoria zdalne sa surowe)
+
