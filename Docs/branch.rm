@@ -32,3 +32,4 @@ oprocz merge mozna uzyc takze rebase do laczenia galezi ale to zmienia historie 
 //git branch --merged lista galezi polaczonych (ja mam master i this bo go laczylem)
 
 git checkout -b nowy_komit 16202e2 => tworzy nowa galaz na podstawie nr commitu
+git push origin HEAD => galaz bierzaca mozemy wyslac do repozytorium zdalnego
