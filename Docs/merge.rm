@@ -15,3 +15,5 @@ npm . git rebase nazwa_galezi
 //dla konfiliktow w plikach tekstowych mozemy robic to co wyzej dla konfliktow w plikach binarnych stosujemy:
 git checkout --ours nazwa-pliku => do przywrocenia pliku z galezi bierzacej
 git checkout --theirs nazwa-pliku => do przylaczenia wersji z galezi dolaczanej
+
+//piotrek za duzo gra
