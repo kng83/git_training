@@ -12,5 +12,3 @@ git pull => robi fetch i od razu merge
 git checkout --track -b daves_branch origin/daves_branch
 
 
-
-to jest jakas mala zmiana
