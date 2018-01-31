@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+68b12481c958c0827219b05216135d892a692e32 refs/heads/dedykowana
+77e5cc84f5c42220c165cce67830600154db307a refs/heads/doc
+1988b3dba5df039f53d26da9163e17d14fac71dd refs/heads/master
+a1f7fa251a7e9d9fea77c04bb92ac3d733b14d6a refs/heads/nowy_branch
+643472381519f287d07eb98e77dded6bb89bfc2e refs/heads/nowy_stan
+9764cd4cf6523593cd80cbc4ea05adaca137879e refs/tags/'robo'
+a82ac562741d98d99e3c01b832782a8a944b5a91 refs/tags/V0.0.1
+f2f10020a13d3f245d90b77ef5e48323a161b20a refs/tags/V0.0.3
+c59a8fee5ab05ea102fbaefea619aa8d1a5d0f41 refs/tags/VX.0
+daa8c63c37dc42f2c91a4fc17b825f08271b4ac4 refs/tags/VX.0.0
+c7f790ac1e91535b0e436dc8740aedf027d15332 refs/tags/owoc
+0e0a77d6a59e31af31abf5f7700e5c37b12e089b refs/tags/v0.0.2
