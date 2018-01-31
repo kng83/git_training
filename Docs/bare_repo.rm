@@ -2,3 +2,10 @@ Tworzymy surow repozytorium bare w katalogu repo_bare
 git --bare init => utworzenie repozytorium surowego
 git clone --bare ../ =>git clone -bare adress folder =>sklonowanie repozytorium surowego
 git remote rm magazyn => usuniecie remota magazyn
+
+tworzymy surowe repo w katalogu bare
+git --bare init
+git clone --bare ../ => folder glowny nasz
+git remote add mag ./repo_bare/cw-06-04 /=> dodajemy zdalnego remote
+git push -u mag master => wysylamy  do repozytorum repo_bare
+
