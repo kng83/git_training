@@ -5,3 +5,4 @@ git push -u nazwa-repo-zdalnego nazwa-galezi-zdalnej => galaz o podanej nazwie b
 git push -f origin master => wymuszenie pusha do zdalnego repozytorium origin do galezi master
 git push --all => wysylamy wszystkie galezie do zdalnego
 git push origin nazwa-lokalna:nazwa-zdalna => przeslanie galezi ze zmiana nazwy
+git push -u origin master => to sprawia ze jest odrazu --set-upstream
