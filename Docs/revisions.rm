@@ -31,7 +31,7 @@ git reflog master@{6} =>pokazuje od mastera nr 6 commita
 znaki specjalen w windowsie by wyswietlic musimy poprzedzic ^
 wiec git show HEAD^^1 trzeba dac 2 .
 git show -s HEAD~~~ => pokazuje 3 rodzica z rzedu w jednej galezi
-^^^^2 -ten znak przelacza galezie na 2 (w windowsie musza byc 2)
+^^^^2 -ten znak przelacza galezie na 2 (w windowsie musza byc 2
 
 *********Polecenie graph *********************(wyswietla w grafie)
 git log --graph
