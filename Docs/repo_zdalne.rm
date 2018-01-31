@@ -16,7 +16,6 @@ remote add zapisuje pliki w repozytorium zdalnym
 jesli chcemy dac nazwe zdalnemu repo to damy git remote zdalne C:\cos\tam\jest
 
 git config --list => to mozezemy zobaczyc konfiguracje (tu bedzie tez lista remote)
-git branch --set-upstream origin/master => ustalenie galezi ktora mozna sledzic
 git branch -r => wyswietla galezie zdalne
 
 git remote -v => pokazuje remote repo
