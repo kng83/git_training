@@ -3,6 +3,7 @@ rewizje pobrana fetchem nie sa automatyczne laczone z bierzaca galezia
 
 git branch --set-upstream galaz-lokalna repozytorium zdalne/galaz_zdalna np:
 git branch --set-upstream-to origin/master //teraz fetch bedzie odnosil sie do mastera a byl do dedykowana
+--set-upstream-to => ustawia sledzenie na dana galaz
 
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 w celu polacznie dajemy merge np:
@@ -11,4 +12,4 @@ git merge origin/master
 git pull => robi fetch i od razu merge
 git checkout --track -b daves_branch origin/daves_branch
 
-
+repozytorium bez obszaru roboczego oraz indeksu nazywmay repozytorium surowym (np repozytoria zdalne sa surowe)

@@ -1,0 +1,6 @@
+git push nazwa-repo-zdalnego nazwa-galezi-lokalnej:nazwa-galezi-zdalnej => push galezi
+gitp push => jezeli remote jest ustawiony
+git push -u nazwa-repo-zdalnego nazwa-galezi-zdalnej => galaz o podanej nazwie bedzie ustawiona jak sledzona
+
+git push -f origin master => wymuszenie pusha do zdalnego repozytorium origin do galezi master
+git push --all => wysylamy wszystkie galezie do zdalnego
