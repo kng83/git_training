@@ -1,2 +1,3 @@
 //diff sluzy do badania roznic
 gif diff => bez parametrow sprawdza roznice miedzy roboczym a aktualnym
+gif diff --name-only => porownuje zmiane nazw plikow
