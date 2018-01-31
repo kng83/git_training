@@ -1,5 +1,0 @@
-//przerobienie z branchu na mastera
-
-git checkout new-master
-git branch -m master old-master
-git branch -m new-master master

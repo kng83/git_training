@@ -19,3 +19,6 @@ git checkout --theirs * =>przywrocenie plikow z 2 galezi (robi sie to po merge i
 git checkout [SHA-1] nazwa_pliku => odtworzenie pliki z konkretnego commita
 git show [SHA-1]:nazwa_pliku => pokazuje plik z konkretnego commita
 git show d8c52ccbd:./Docs/merge.rm => pokazanie roznic miedzy starym commitem a bierzacym
+git merge => porownuje najczesciej po fetchu
+git merge --abort => niszczy efekt merga
+

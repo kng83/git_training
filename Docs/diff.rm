@@ -3,3 +3,4 @@ gif diff => bez parametrow sprawdza roznice miedzy roboczym a aktualnym
 gif diff --name-only => wyswietla pliki w ktorych tekst sie zmienil
 git diff --name-only -- jakis/folder => wyswietla pliki ktore zostaly zmienione w folderze
 git diff nr_rewizji => porownuje roznice miedzy rewizjami
+git diff --name-status this..master => porownuje galezie this i master

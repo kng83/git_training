@@ -1,5 +1,5 @@
 git fetech => pobiera galaz sledzona
-rewizje pobrana fetchem nie sa automatyczne laczone z bierzaca galezia
+rewizje pobrana fetchem nie sa automatyczne laczone z bierzaca galezia chyba ze dopisuja
 
 git branch --set-upstream galaz-lokalna repozytorium zdalne/galaz_zdalna np:
 git branch --set-upstream-to origin/master //teraz fetch bedzie odnosil sie do mastera a byl do dedykowana

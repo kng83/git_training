@@ -7,7 +7,6 @@ git archive --format=zip V0.0.2 >nowy.zip
 git archive --format=zip f2f10020a13d3 >najnowszy.zip
 
 git show => pokazuje ostatnia rewizje
-
 git archive -o latest.zip HEAD =>krotkie i dobre
 
 

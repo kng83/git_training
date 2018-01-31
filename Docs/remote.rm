@@ -1,4 +1,4 @@
-g//clonowanie
+//clonowanie:
 //z repo zdalnego jest brany origin
 //kopiowane sa rewizje do lokalnego z zdalnego do galezi master
 //w .git/refs/remotes jest tworzony HEAD z nazwa galezi zdalnego repo
@@ -30,5 +30,4 @@ fetch dziala inaczej od pull (pull porownuje dane a fetch poprostu je pobiera);
 *jestes w galezi do ktorej chcesz dac plik
 git checkout nazwa_galezi nazwa_pliku
 git checkout nowy_stan Docs/repo_zdalne.rm (jestes w galezi master)
-git merge --abort => niszczy efekt merga
 
