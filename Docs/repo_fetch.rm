@@ -8,6 +8,9 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 w celu polacznie dajemy merge np:
 git merge origin/master
 
+git pull => robi fetch i od razu merge
+git checkout --track -b daves_branch origin/daves_branch
+
 
 
 
