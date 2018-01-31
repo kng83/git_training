@@ -1,0 +1,4 @@
+git fetech => pobiera galaz sledzona
+rewizje pobrana fetchem nie sa automatyczne laczone z bierzaca galezia
+w celu polacznie dajemy merge np:
+git merge origin/master

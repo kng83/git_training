@@ -19,6 +19,7 @@ git config --list => to mozezemy zobaczyc konfiguracje (tu bedzie tez lista remo
 git branch -r => wyswietla galezie zdalne
 
 git remote -v => pokazuje remote repo
+git branch -a => wyswietla liste wszystkich galez lacznie z remote
 
 git remote add orgin nazwa_url =>jesli zrobilsmy galaz zdalna to mozemy zrobic fetch i polaczyc sie z nia
 git fetch origin =>pobieramy teraz orgina i zmieniamy sledzenie na nowa galaz
